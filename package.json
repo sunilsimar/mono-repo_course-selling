@@ -1,5 +1,5 @@
 {
-  "name": "Course-Selling",
+  "name": "monorepo",
   "private": true,
   "scripts": {
     "build": "turbo build",
